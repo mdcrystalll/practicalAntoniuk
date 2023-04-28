@@ -1,0 +1,19 @@
+{
+  "name": "pz_2.7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "logger": "^0.0.1",
+    "readline-sync": "^1.4.10",
+    "tests": "^0.4.2"
+  }
+}
